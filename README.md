@@ -9,7 +9,7 @@ echo "${var} text..."
 
 example1
 ``` bash
-echo -e "${red} Cauntion info text... ${bla,whi} black text in white background"
+echo -e "${red} Cauntion info text... ${bla,whi} black text on white background"
 ```
 
 example2: 
