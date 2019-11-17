@@ -27,9 +27,9 @@ echo -e "${rgb001} blue color text...${c0}"
 you can use various kind of schortcuts easy to remember:
 3 letter short;   rgb triplet;    1 letter short;   full name;
 
-eg. 
-bla - for black
-gre - for green
-rgb001 - for blue
-1c - for (1 letter) cyan
+eg.  
+bla - for black  
+gre - for green  
+rgb001 - for blue  
+1c - for (1 letter) cyan  
 etc.
