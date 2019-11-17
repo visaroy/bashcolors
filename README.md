@@ -4,12 +4,12 @@ colors and formatting ANSI/VT100 to easy use in bash scripts
 Easy to use in bash/shell scripts in between 'echo' outputs
 use
 ``` bash
-echo "${var}  "
+echo "${var} text..."
 ```
 
 example1
 ``` bash
-echo -e "${red} Cauntion info text... ${bla,whi} black text in whit background"
+echo -e "${red} Cauntion info text... ${bla,whi} black text in white background"
 ```
 
 example2: 
